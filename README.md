@@ -25,7 +25,7 @@ When we open the file PIKACHU.exe in the Project folder, we will see there are 4
 
 ![{0192E7F1-67A4-470C-8AC0-9D1AA41394EF}](https://github.com/user-attachments/assets/119ab43d-fe8c-4a26-9513-e966d4eea6aa)
 
-<br>**NEW GAME:** will ask you to choose which mode (Medium/ Hard). By choosing one of two mode, you will need to enter your name.
+<br>**NEW GAME:** will ask you to choose which mode (Medium/ Hard). After choosing one of two mode, you will need to enter your name.
 
 ![{E43A14B5-E4F2-4291-96CD-4F99A36F2D5D}](https://github.com/user-attachments/assets/46104196-204f-49e6-bf12-e80a8f8c5f28)
 <br>
