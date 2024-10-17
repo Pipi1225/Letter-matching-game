@@ -18,9 +18,8 @@ This project is developed by:
 
 **How the game work:**
 
-![{C1D87D5E-2E17-4CC9-BC40-2C8B8F425B6D}](https://github.com/user-attachments/assets/e028e22b-14b1-4a44-9afc-236b5f133611)
+<br>
 
-<br><br>
 When we open the file PIKACHU.exe in the Project folder, we will see there are 4 buttons in this screen. We can use W/ S or Up/Down arrow to select, press Enter to choose:
 
 ![{0192E7F1-67A4-470C-8AC0-9D1AA41394EF}](https://github.com/user-attachments/assets/119ab43d-fe8c-4a26-9513-e966d4eea6aa)
