@@ -1,4 +1,4 @@
-# Letter-matching-game
+# Letter Matching Game
 
 **Introduction:**
 The Matching Game (Pikachu Puzzle Game) includes a board of multiple cells,
@@ -14,7 +14,8 @@ This project is developed by:
 + 23127052 - Duong Gia Huy
 + 23127125 - Nguyen Hieu Thuan
 
-<br><br>
+<br>
+
 **How the game work:**
 
 ![{C1D87D5E-2E17-4CC9-BC40-2C8B8F425B6D}](https://github.com/user-attachments/assets/e028e22b-14b1-4a44-9afc-236b5f133611)
@@ -37,17 +38,21 @@ After that you will be taken to the game stage.
 
 In medium mode, the stage is like a normal Matching Game, we clear out the stage by matches a pair of cells that contain the same letter.
 
+![normal](https://github.com/user-attachments/assets/5d7c6a8a-0083-4e35-a262-d9d8b6643f5d)
+
 In hard mode will be a more difficult stage by sliding the neighboring cells (from the game stage) into the newly emptied spaces in right to left direction after a matched, also each match will give you more points.
+
+![hardmode](https://github.com/user-attachments/assets/22b82e48-bb58-42e5-a6e2-ded999fc94d2)
 
 And if you can't see which cells to choose, you can enter B to use 30 points for a hint.
 
 ![suggestion](https://github.com/user-attachments/assets/0f9ec3e8-6934-4ddc-9add-e00d9cf26f7d)
 
-And you can't use it if your points is negative.
+You can't use it if your points is negative.
 
 ![negativesuggestion](https://github.com/user-attachments/assets/4f119e70-816a-4625-91aa-3b9829cf1e77)
 
-By clear out the stage, you will reveal the background underneath it (Each stage is a random image) and your rank in the leaderboard if your points high enough. Then the game will ask you if you want to continue or not.
+By clear out the stage, you will reveal the background underneath it (Each stage is a random image) and your rank in the leaderboard if your points is high enough. Then the game will ask you if you want to continue or not, your record will be saved after you choose.
 
 ![end](https://github.com/user-attachments/assets/9825741d-8456-49c4-ba80-45780ace33fb)
 
@@ -59,25 +64,27 @@ player’s record in light red color.
 
 
 <br>**INFO:** will show you general information that you need if you want to play the game and also the credit of the developers of this game.
+
 ![{67FD1134-FB7F-48AC-84E3-2D68D0CF2D1A}](https://github.com/user-attachments/assets/f3611bdd-a14b-4ea4-b334-d2f8195a3306)
 
-
+<br><br>
 Example of a legal match:
+<br><br>
 
 ![{10BD9E94-1E78-4146-87CE-6CD1B00CB322}](https://github.com/user-attachments/assets/f1aa0a09-9453-41f1-b74f-1fb9232853bc)
 
 *I pattern*
-<br>
+<br><br>
 
 ![{4BFD5464-DCE7-4F01-844E-DAE283B1F197}](https://github.com/user-attachments/assets/42c14846-8ffe-40be-ba51-e10bd3789959)
 
 *L pattern*
-<br>
+<br><br>
 
 ![{BFCC7A59-CFDC-423F-A130-562FEFFF4D4D}](https://github.com/user-attachments/assets/2b35d1d9-3692-42d2-8643-88ee7f6d7b4b)
 
 *U pattern*
-<br>
+<br><br>
 
 ![{61BC4656-002A-4498-885A-201F21C3F89E}](https://github.com/user-attachments/assets/9c529c84-366a-42bb-8bb6-699c83da3426)
 
