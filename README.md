@@ -67,7 +67,8 @@ player’s record in light red color.
 
 ![{67FD1134-FB7F-48AC-84E3-2D68D0CF2D1A}](https://github.com/user-attachments/assets/f3611bdd-a14b-4ea4-b334-d2f8195a3306)
 
-<br><br>
+<br>
+
 Example of a legal match:
 <br><br>
 
