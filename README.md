@@ -20,7 +20,7 @@ This project is developed by:
 
 <br>
 
-When we open the file PIKACHU.exe in the Project folder, we will see there are 4 buttons in this screen. We can use W/ S or Up/Down arrow to select, press Enter to choose:
+When we open the file PIKACHU.exe in the Project folder, we will see there are 4 buttons in this screen. We can use W/S or Up/Down arrow to select, press Enter to choose:
 
 ![{0192E7F1-67A4-470C-8AC0-9D1AA41394EF}](https://github.com/user-attachments/assets/119ab43d-fe8c-4a26-9513-e966d4eea6aa)
 
@@ -43,7 +43,7 @@ In hard mode will be a more difficult stage by sliding the neighboring cells (fr
 
 ![hardmode](https://github.com/user-attachments/assets/22b82e48-bb58-42e5-a6e2-ded999fc94d2)
 
-And if you can't see which cells to choose, you can enter B to use 30 points for a hint.
+And if you can't see which cells to choose, you can use 30 points for a hint.
 
 ![suggestion](https://github.com/user-attachments/assets/0f9ec3e8-6934-4ddc-9add-e00d9cf26f7d)
 
@@ -51,7 +51,7 @@ You can't use it if your points is negative.
 
 ![negativesuggestion](https://github.com/user-attachments/assets/4f119e70-816a-4625-91aa-3b9829cf1e77)
 
-By clear out the stage, you will reveal the background underneath it (Each stage is a random image) and your rank in the leaderboard if your points is high enough. Then the game will ask you if you want to continue or not, your record will be saved after you choose.
+By clearing out the stage, you will reveal the background underneath it (Each stage is a random image) and your rank in the leaderboard if your points is high enough. Then the game will ask you if you want to continue or not, your record will be saved after you choose.
 
 ![end](https://github.com/user-attachments/assets/9825741d-8456-49c4-ba80-45780ace33fb)
 
